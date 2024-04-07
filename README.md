@@ -13,6 +13,12 @@ TI Code Composer Studio (CCS) 11.2.0
 
 Vivado 2023.2
 
+## Software Demo
+https://youtu.be/hbpixFBOUNE
+
+## Hardware Setup:
+![MSP432 and Basys-3 Communications Image](https://github.com/SirWoofie/MSP432-Basys3-Communication/assets/15528008/4180508e-b0ba-456d-b556-6867fe075ea9)
+
 ## Connection Guide:
 |Address Bus		||    Output Bus		 ||   Input Bus		   ||   Special Command Wires||	
 |---|---|---|---|---|---|---|---|
